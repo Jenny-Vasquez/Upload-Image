@@ -97,7 +97,8 @@ Debemos asegurarnos  de tener instalados los siguientes requisitos antes de ejec
 ![Formulario de subida de imágenes](Capturas/.3png)
 
 ### Tabla de Imágenes
-![Tabla de imágenes](Capturas/4.png)
+
+![Formulario de subida de imágenes](Capturas/4.png)
 
 ### Muestra de Imagen
 ![Muestra de imagen](Capturas/5.png)
